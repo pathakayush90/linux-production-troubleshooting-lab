@@ -1,0 +1,16 @@
+<svg width="1200" height="260" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="260" fill="#cbb7ff"/>
+  <path d="M0 190 C300 240 650 160 1200 210 L1200 260 L0 260 Z" fill="#eadfff"/>
+
+  <text x="600" y="95" font-size="50" text-anchor="middle" font-family="Arial" font-weight="bold" fill="#111827">
+    Linux Production Troubleshooting Lab
+  </text>
+
+  <text x="600" y="150" font-size="26" text-anchor="middle" font-family="Arial" fill="#111827">
+    Linux System Administration • Troubleshooting • Root Cause Analysis
+  </text>
+
+  <text x="600" y="205" font-size="20" text-anchor="middle" font-family="Arial" fill="#2563eb">
+    Nginx | SSH | DNS | Firewall | Tomcat | Logs | System Performance
+  </text>
+</svg>
